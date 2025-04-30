@@ -1,0 +1,20 @@
+// Стили для компонента ArticleList с использованием CSS-модулей
+
+$primary-color: #4a90e2;
+
+.section {
+  padding: 20px;
+}
+
+.heading {
+  color: $primary-color;
+}
+
+.list {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.listItem {
+  margin: 10px 0;
+}

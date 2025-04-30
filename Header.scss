@@ -1,0 +1,16 @@
+// Стили для компонента Header
+// Используют SCSS-переменные для цветовой темы
+
+$primary-color: #4a90e2;
+$text-color: white;
+
+header {
+  background-color: $primary-color;
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    color: $text-color;
+    margin: 0;
+  }
+}

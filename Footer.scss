@@ -1,0 +1,19 @@
+// Стили для компонента Footer
+// Определяют цвет фона и текста с использованием SCSS-переменных
+
+
+$background-color: #333;
+$text-color: #fff;
+
+footer {
+  background-color: $background-color;
+  padding: 10px;
+  text-align: center;
+
+  p {
+    color: $text-color;
+    margin: 0;
+  }
+}
+
+  

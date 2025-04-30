@@ -1,0 +1,23 @@
+
+// Стили для компонента ArticleList
+// Используют вложенность SCSS и переменные для цветовой схемы
+
+$primary-color: #4a90e2;
+
+
+section {
+  padding: 20px;
+
+  h2 {
+    color: $primary-color;
+  }
+
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+
+    li {
+      margin: 10px 0;
+    }
+  }
+}

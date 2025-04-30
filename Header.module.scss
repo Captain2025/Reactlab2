@@ -1,0 +1,15 @@
+// Стили для компонента Header с использованием CSS-модулей
+
+$primary-color: #4a90e2;
+$text-color: white;
+
+.header {
+  background-color: $primary-color;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  color: $text-color;
+  margin: 0;
+}

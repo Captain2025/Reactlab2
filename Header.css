@@ -1,0 +1,16 @@
+/* 
+  Стили для компонента Header.
+  Устанавливают цвет фона и цвет текста.
+*/
+
+header {
+    background-color: #4a90e2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: white;
+    margin: 0;
+  }
+  

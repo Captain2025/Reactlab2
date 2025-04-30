@@ -1,0 +1,22 @@
+/* 
+  Стили для компонента ArticleList.
+  Определяют внешний вид заголовка, списка и отступов.
+*/
+
+section {
+    padding: 20px;
+  }
+  
+  section h2 {
+    color: #4a90e2;
+  }
+  
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  

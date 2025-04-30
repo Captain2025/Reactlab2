@@ -1,0 +1,17 @@
+// Стили для компонента Footer с использованием CSS-модулей
+
+$background-color: #333;
+$text-color: #fff;
+
+.footer {
+  background-color: $background-color;
+  padding: 10px;
+  text-align: center;
+}
+
+.text {
+  color: $text-color;
+  margin: 0;
+}
+
+  
